@@ -1,0 +1,16 @@
+{
+    "require": {
+        "layershifter/tld-extract": "^2.0",
+        "php-webdriver/webdriver": "^1.12",
+        "doctrine/dbal": "^3.3",
+        "klein/klein": "^2.1"
+    },
+    "require-dev": {
+        "laravel/breeze": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
